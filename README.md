@@ -4,4 +4,5 @@
 
 |No.|Archivo|Descripcion|
 |--|--|--|
-|1|programa1.py|
+|1|programa1.py|hola a todos
+este es mi primer ejercicio de dia uwu
